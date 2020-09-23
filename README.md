@@ -10,6 +10,6 @@ Copy `base64.js` file to your project, then:
 import base64 from './base64.js';
 
 
-base64.atob();
-base64.btoa();
+base64.encode('');
+base64.decode('');
 ```
